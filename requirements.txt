@@ -8,7 +8,7 @@ spello==1.2.0
 snowballstemmer
 tensorflow
 sentencepiece
-sklearn
+scikit-learn
 pydload
 tensorboardX
 fairseq
