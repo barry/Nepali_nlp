@@ -1,4 +1,4 @@
-gensim==3.7.3
+gensim
 requests==2.22.0
 wget==3.2
 beautifulsoup4
